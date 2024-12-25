@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movie-api/static/css/main.ab5dd46e.css",
+    "main.js": "/movie-api/static/js/main.a79f73fc.js",
+    "static/media/loading1.gif": "/movie-api/static/media/loading1.23614aa43b9ff3e1d461.gif",
+    "static/media/theatre-logo.png": "/movie-api/static/media/theatre-logo.10c06ef15a5d961a5a55.png",
+    "index.html": "/movie-api/index.html",
+    "main.ab5dd46e.css.map": "/movie-api/static/css/main.ab5dd46e.css.map",
+    "main.a79f73fc.js.map": "/movie-api/static/js/main.a79f73fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab5dd46e.css",
+    "static/js/main.a79f73fc.js"
+  ]
+}
