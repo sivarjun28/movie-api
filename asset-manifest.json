@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/movie-api/static/css/main.ab5dd46e.css",
-    "main.js": "/movie-api/static/js/main.a79f73fc.js",
+    "main.css": "/movie-api/static/css/main.5021f050.css",
+    "main.js": "/movie-api/static/js/main.8dfed05f.js",
     "static/media/loading1.gif": "/movie-api/static/media/loading1.23614aa43b9ff3e1d461.gif",
     "static/media/theatre-logo.png": "/movie-api/static/media/theatre-logo.10c06ef15a5d961a5a55.png",
     "index.html": "/movie-api/index.html",
-    "main.ab5dd46e.css.map": "/movie-api/static/css/main.ab5dd46e.css.map",
-    "main.a79f73fc.js.map": "/movie-api/static/js/main.a79f73fc.js.map"
+    "main.5021f050.css.map": "/movie-api/static/css/main.5021f050.css.map",
+    "main.8dfed05f.js.map": "/movie-api/static/js/main.8dfed05f.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab5dd46e.css",
-    "static/js/main.a79f73fc.js"
+    "static/css/main.5021f050.css",
+    "static/js/main.8dfed05f.js"
   ]
 }
