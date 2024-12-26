@@ -9,11 +9,8 @@ import Footer from './Footer';
 
 function App() {
   return (
-    
-    <Router>
-      
+    <Router basename='/movie-api'>
       <div>
-      <BrowserRouter futureFlags={{ v7_startTransition: true, v7_relativeSplatPath: true }}>
         {/* Your navigation component (if any) can be placed here */}
         <Routes>
           <Route path="/" element={<Home />} />
@@ -22,7 +19,6 @@ function App() {
           <Route path="movies" element={<PopularMovies />} />
           <Route path="animation" element={<Animation />} />
         </Routes>
-        </BrowserRouter>
       </div>
     </Router>
   );
